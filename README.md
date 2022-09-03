@@ -25,7 +25,11 @@ TODO:
 
 Routes served currently present no information and just echo back the endpoints.
 
+TODO:
 - present raw data for congressmembers to an endpoint
 - decide on a frontend framework to present that data.
 
+##Version Information
 
+go      1.18.5
+neo4j   4.4.7
