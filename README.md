@@ -29,7 +29,7 @@ TODO:
 - present raw data for congressmembers to an endpoint
 - decide on a frontend framework to present that data.
 
-##Version Information
+## Version Information
 
 go      1.18.5
 neo4j   4.4.7
