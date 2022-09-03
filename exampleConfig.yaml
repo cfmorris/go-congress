@@ -1,0 +1,11 @@
+Database:
+  Port: your-port #7474
+  Host: your-host #localhost
+  Username: your-username
+Server:
+  Port: your-port #8080
+  Host: your-host #localhost
+Keys:
+  PpApi: your-api-key # https://www.propublica.org/datastore/api/propublica-congress-api
+  Database: your-password
+  AuraDatabase: your-auradb-password
